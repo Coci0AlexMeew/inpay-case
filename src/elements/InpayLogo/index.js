@@ -1,0 +1,1 @@
+export { InpayLogo } from './InpayLogo';
